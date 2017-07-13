@@ -1,4 +1,4 @@
-> "I speak of rights. A machine has none. A man must. My client has the right to face his accuser, and if you do not grant him that right, you have brought us down to the level of the machine. Indeed, you have elevated that machine above us. I ask that my motion be granted, and more than that, gentlemen. In the name of humanity, fading in the shadow of the machine, I demand it. I demand it!" -- *Court Martial*, S1E21, *Star Trek: The Original Series*, 
+> "I speak of rights. A machine has none. A man must. My client has the right to face his accuser, and if you do not grant him that right, you have brought us down to the level of the machine. Indeed, you have elevated that machine above us. I ask that my motion be granted, and more than that, gentlemen. In the name of humanity, fading in the shadow of the machine, I demand it. I demand it!" -- *Court Martial*, S1E21, *Star Trek: The Original Series*
 
 # THE ORIGINAL SERIES
 
