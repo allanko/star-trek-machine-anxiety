@@ -29,6 +29,7 @@
 
 * S2E13 Prototype
 * **S2E17 Dreadnought**
+* S3E5 The Swarm
 * S3E14 Alter Ego
 * S4E5  Revulsion
 * S4E14 Message in a Bottle
