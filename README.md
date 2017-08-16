@@ -35,7 +35,7 @@
 * S4E14 Message in a Bottle
 * **S4E23 Living Witness**
 * S5E8  Nothing Human
-* S5E11 Latent Image
+* **S5E11 Latent Image**
 * **S5E25 Warhead**
 
 bolded episodes = my personal favorites
