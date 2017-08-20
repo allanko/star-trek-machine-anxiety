@@ -37,7 +37,7 @@
 * S5E8  Nothing Human
 * **S5E11 Latent Image**
 * **S5E25 Warhead**
-S6E11 Fair Haven
+* S6E11 Fair Haven
 
 bolded episodes = my personal favorites
 
