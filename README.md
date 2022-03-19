@@ -21,6 +21,7 @@
 
 # DEEP SPACE NINE
 
+* S1E16 The Forsaken
 * S6E20 His Way
 * S7E10 It's Only a Paper Moon (sequel to His Way)
 * S7E13 Field of Fire
